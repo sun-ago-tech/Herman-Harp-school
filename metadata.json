@@ -1,0 +1,5 @@
+{
+  "name": "Hermann Harp Scheduler",
+  "description": "A monthly schedule management application for music schools. Features automated student assignment based on preferences and constraints, CSV import/export, and calendar visualization.",
+  "requestFramePermissions": []
+}
